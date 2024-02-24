@@ -10,7 +10,7 @@ In this repository, you will find a variety of projects, ranging from simple exe
 Feel free to explore the code, provide feedback, or even collaborate on projects together. Learning is a collaborative journey, and I am eager to engage with fellow developers and enthusiasts in the community.
 You can reach out to me on the following platforms:
 
-Twitter: https://twitter.com/anonymouscodes_
+Twitter: https://x.com/anonymouscodes_?t=eRfBypT32wZKbD1FTTHMBQ&s=09
 LinkedIn: https://linkedin.com/in/kuldeep-yadav-304432272
 Feel free to connect, ask questions, or simply say hello! I am always open to networking and discussing ideas related to web development, programming, and technology.
 
