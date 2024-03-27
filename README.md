@@ -1,7 +1,9 @@
-[![MasterHead](https://media.l[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
-<h3 align="center">I am a passionate learner in the field of full stack web development.
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<h3 align="center">I am a passionate learner in the field of full stack web development.
+
 This GitHub repository serves as a platform where I share my journey, projects, and experiments as I delve deeper into the world of web development.!--- In this repository, you will find a variety of projects, ranging from simple exercises to more complex web applications. Each project represents a step forward in my learning process, and I am excited to share my progress with you</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kul-commits&label=Profile%20views&color=0e75b6&style=flat" alt="kul-commits" /> </p>
