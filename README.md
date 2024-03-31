@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <h3 align="center">I am a passionate learner in the field of full stack web development.
 
