@@ -8,7 +8,7 @@ This GitHub repository serves as a platform where I share my journey, projects, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kul-commits&label=Profile%20views&color=0e75b6&style=flat" alt="kul-commits" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kul_Codes" target="blank"><img src="https://img.shields.io/twitter/follow/@anonymouscodes_?logo=twitter&style=for-the-badge" alt="@anonymouscodes_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kul_Codes" target="blank"><img src="https://img.shields.io/twitter/follow/@kul_Commits?logo=twitter&style=for-the-badge" alt="@anonymouscodes_" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack development**
 
