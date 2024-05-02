@@ -8,7 +8,7 @@ This GitHub repository serves as a platform where I share my journey, projects, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kul-commits&label=Profile%20views&color=0e75b6&style=flat" alt="kul-commits" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@anonymouscodes_" target="blank"><img src="https://img.shields.io/twitter/follow/@anonymouscodes_?logo=twitter&style=for-the-badge" alt="@anonymouscodes_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kul_Codes" target="blank"><img src="https://img.shields.io/twitter/follow/@anonymouscodes_?logo=twitter&style=for-the-badge" alt="@anonymouscodes_" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack development**
 
@@ -18,7 +18,7 @@ This GitHub repository serves as a platform where I share my journey, projects, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@anonymouscodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anonymouscodes_" height="30" width="40" /></a>
+<a href="https://twitter.com/kul_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anonymouscodes_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kuldeep-yadav-304432272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep yadav" height="30" width="40" /></a>
 </p>
 
